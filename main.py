@@ -2,7 +2,6 @@ from manim import *
 
 class VisualizacionSumas(Scene):
     def construct(self):
-        # Ejes sin números temporalmente por el error de LaTeX
         ejes = Axes(
             x_range=[-0.5, 3, 0.5],
             y_range=[-1, 5, 1],
