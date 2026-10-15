@@ -54,4 +54,12 @@ pip install -r requirements.txt
 ```
 
 **4. Ejecución de Escenas:**
-Para visualizar las animaciones, debes xxxx
+
+*Para visualizar las animaciones, debes debes ejecutar el siguiente comando en la terminal dependiendo de la escena que quieras renderizar*
+
+```bash
+manim -pql main.py Presentacion
+manim -pql main.py TeoriaYEjemplo
+manim -pql main.py VisualizacionSumas
+manim -pql main.py ConclusionYCierre
+```
