@@ -1,0 +1,10 @@
+# This file records the segment order used by Manim.
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/8602fa30c47bcc581e79d795249c716cbe501973bf330ded06175db72a27e47d.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/8ca90cd67f70e54aae7820c9e43caeab023671c058ff4080c0aaf6afc851fe3f.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/213d836fda144b00a6e90eab57da40c9b65bdf2e9634df65ad49df57726cdc2f.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/6ca6e48b3c5293a82bb7a55ab5b12e76ec6ff86dd771d0c823c905743148b0bb.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/76a390b83ef011d78aef59f24fd9685ec05bbccb82a9dfd310f8b09e149525ec.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/67a85ed9fed5e7e0fff35f0d30eb01de9ce0f208407bf4c5b4779924cf83dc1c.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/0198ff84a3fa496333cfd109375974458ed95b579796e3ba56bfa1029a528e1f.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/2cbe0ac8bb329ef4d7b2359ac80db64e15ca55a474344a6769571c785e14e378.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/Simbolos/860ba695149ec198098f82b7723c0c1fc3a45b5b57e763310d482e7ed382dcba.mp4'

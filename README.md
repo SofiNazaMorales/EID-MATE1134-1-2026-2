@@ -59,6 +59,7 @@ pip install -r requirements.txt
 
 ```bash
 manim -pql main.py Presentacion
+manim -pql main.py Simbolos
 manim -pql main.py TeoriaYEjemplo
 manim -pql main.py VisualizacionSumas
 manim -pql main.py ConclusionYCierre

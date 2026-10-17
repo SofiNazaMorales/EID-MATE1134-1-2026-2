@@ -1,0 +1,13 @@
+# This file records the segment order used by Manim.
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/e809e5ab74b6ba55b24b864e35c22b5e7795a31952bc8d84d6384a4d86dc8ab9.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/bb6127fb55b6c7deb194de13627810b8c2cefd10a718e18986678e631f2d01e3.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/17f67eaee2145541d725874af5a68d149551f1b3f7a9e6ba5a0bb760b035958c.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/8dae78512200acb51ad5edb7d20203ddcb2a7ea50ea2b16c99ed5681ce53e70e.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/48e18f67617a843837eebd05fd814d13b458dde951abc053f2081f2a58be7727.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/09560b56c493dd0e7dff4f4882f8c671cc32ccc2032b45005f12b0a5f8fb825a.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/fe445eaddfc4ae959884dbf3ef8520560e0d6ab8a4738dc279494975f9a4935f.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/010913648ae6ebd488b931fb666f1416d2fa353dc754096a2c2f71f26f00aff8.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/30006d107fc62436df35ab92ae89c471d45f2bbd047e7a39a77cf6d24db8f7dc.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/24325a0e7f2877db71bb7ca337f7bd538c7825513fedf69afb3890c0af2a16f5.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/902bbeab0565fba1a79d68152284123bf52b8d360523b2a5d90be2b90a80b4a5.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/TeoriaYEjemplo/38fd039556318ed9977b558b12921ca48c41cf334b679778b805cf5dafebaa88.mp4'

@@ -1,0 +1,5 @@
+# This file records the segment order used by Manim.
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/ConclusionYCierre/29e7210051a1ceec6f337344f75e4fd7ca1f52042d26d20fc3c8f84b92361557.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/ConclusionYCierre/e01fa1efe845b4428beb3faf458625acc952661cfad374d9a0f5a9594fdbce99.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/ConclusionYCierre/bac5b96cb6b4c12d5128faad0c662dde112fab43cb7a1aee1b1d27becf17e073.mp4'
+file 'file:/home/dofi/EID-MATE1134-1-2026-2/media/videos/main/480p15/partial_movie_files/ConclusionYCierre/9e88bba0c9e1c9e4436efad6f0f46bfc65b3c932199aee116b7e7d7224854786.mp4'
